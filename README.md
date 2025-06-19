@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Dek Cinta 🌸</h1>
-<p align="center">💻 Mahasiswi Sistem Informasi | 🎮 Pecinta Game & Data | ☁️ Dreaming under the blue sky</p>
+<p align="center">💻 Mahasiswi Sistem Informasi | 🎮 Pecinta hal unik | ☁️ Dreaming under the blue sky</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=89CFF0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Explore+my+projects+and+codes+%F0%9F%93%9C;Learning+AI%2C+Data+%26+Web+dev+everyday" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 ---
 
 ### 🌟 About Me
-- 🏫 Currently a 5th semester student in Information Systems
+- 🏫 Currently a 6th semester student in Information Systems
 - 📊 Passionate in Recommender Systems and Data Visualization
 - 📚 Always learning something new, especially in Python & Web dev
-- 🐣 Fun fact: I love chocolate, stars, and quiet rainy nights 🌧️🍫✨
+- 🐣 Fun fact: I love chocolate, matcha, stars, and quiet rainy nights 🌧️🍫✨
 
 ---
 
@@ -22,21 +22,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amorcintaaa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amorcintaaa&theme=tokyonight&hide_border=true&border_radius=12" width="47%">
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amorcintaaa&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
-</p>
 
 ---
 
