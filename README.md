@@ -32,6 +32,4 @@
 
 > “Keep growing, glowing, and going — no matter what the sky looks like.” ☁️🌈💫
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JkC7F2a0uXj5G2nnsT/giphy.gif" width="100" />
-</p>
+
